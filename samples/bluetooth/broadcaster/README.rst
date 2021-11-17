@@ -7,7 +7,7 @@ Bluetooth: Broadcaster
 Overview
 ********
 
-A simple application demonstrating BLE Broadcaster role functionality. 
+A simple application demonstrating Bluetooth Low Energy Broadcaster role functionality. 
 The application will periodically send out advertising packets with 
 a manufacturer data element. The content of the data is a single byte 
 indicating how many advertising packets the device has sent 
